@@ -1,0 +1,388 @@
+[{
+    "page": 9,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/2n1u392UAhtR4SvjCHC8BfLaamn.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 133919,
+            "original_language": "sv",
+            "original_title": "Scener ur ett äktenskap",
+            "overview": "Johan and Marianne are married and seem to have it all. Their happiness, however, is a façade for a troubled relationship, which becomes even rockier when Johan admits that he's having an affair. Before long, the spouses separate and move towards finalizing their divorce, but they make attempts at reconciling. Even as they pursue other relationships, Johan and Marianne realize that they have a significant bond, but also many issues that hinder that connection.",
+            "popularity": 8.903,
+            "poster_path": "/ArKEdvJesIktFX8OAhcdKAOLl6I.jpg",
+            "release_date": "1974-09-15",
+            "title": "Scenes from a Marriage",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Jr2OBzoLLOYqQWnyN4eicZv0sL.jpg",
+            "genre_ids": [
+                12,
+                10751
+            ],
+            "id": 606856,
+            "original_language": "en",
+            "original_title": "Togo",
+            "overview": "The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.",
+            "popularity": 93.702,
+            "poster_path": "/wX0QD36a80hxulcizz7tyahYOF8.jpg",
+            "release_date": "2019-12-20",
+            "title": "Togo",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 1586
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zd7mu6dJKxkVtBdXqlEQ9W3msKl.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 11878,
+            "original_language": "ja",
+            "original_title": "用心棒",
+            "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
+            "popularity": 14.768,
+            "poster_path": "/tN7kYPjRhDolpui9sc9Eq9n5b2O.jpg",
+            "release_date": "1961-04-25",
+            "title": "Yojimbo",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 1094
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 289,
+            "original_language": "en",
+            "original_title": "Casablanca",
+            "overview": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+            "popularity": 27.672,
+            "poster_path": "/5K7cOHoay2mZusSLezBOY0Qxh8a.jpg",
+            "release_date": "1942-11-26",
+            "title": "Casablanca",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 4375
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nicDo6SnBxK93ROGAhpKTOAhy2i.jpg",
+            "genre_ids": [
+                35,
+                10402
+            ],
+            "id": 400608,
+            "original_language": "en",
+            "original_title": "Bo Burnham: Make Happy",
+            "overview": "Combining his trademark wit and self-deprecating humor with original music, Bo Burnham offers up his unique twist on life in this stand-up special about  life, death, sexuality, hypocrisy, mental illness and Pringles cans.",
+            "popularity": 12.471,
+            "poster_path": "/1RqDE7X2rGjxKOklweUFd2U7Vn0.jpg",
+            "release_date": "2016-06-03",
+            "title": "Bo Burnham: Make Happy",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 298
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 705,
+            "original_language": "en",
+            "original_title": "All About Eve",
+            "overview": "From the moment she glimpses her idol at the stage door, Eve Harrington is determined to take the reins of power away from the great actress Margo Channing. Eve maneuvers her way into Margo's Broadway role, becomes a sensation and even causes turmoil in the lives of Margo's director boyfriend, her playwright and his wife. Only the cynical drama critic sees through Eve, admiring her audacity and perfect pattern of deceit.",
+            "popularity": 10.112,
+            "poster_path": "/6numIZH6uR3NlJgY9m7nGH0jhs.jpg",
+            "release_date": "1950-10-06",
+            "title": "All About Eve",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 1239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f0oDtB2JCMlPKjphBJ90GcfVzWg.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 19,
+            "original_language": "de",
+            "original_title": "Metropolis",
+            "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+            "popularity": 16.402,
+            "poster_path": "/hUK9rewffKGqtXynH5SW3v9hzcu.jpg",
+            "release_date": "1927-02-06",
+            "title": "Metropolis",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 2137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/acqlcQWYE2F1ZRfS9dd4Mwb6BIO.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 472454,
+            "original_language": "tr",
+            "original_title": "Ayla",
+            "overview": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, this little girl captures the heart of Süleyman, who risks his own life to save her, smuggling her into his Army base and out of harms way. Not knowing her name and unable to communicate with her, Süleyman names her Ayla, in reminiscence of the moon on the fateful night during which they met. The two form an instantaneous and inseparable bond, and Ayla, almost effortlessly, brings an uncanny joy to the Turkish brigade in the grip of war. As the war comes to a close however, Süleyman's brigade is told that they will be returning home. Süleyman cannot bear abandoning Ayla, and does everything within his power to take her with him. After repeated failure, he is forced to give Ayla to an orphanage, but doesn't give up on the hope of one day reuniting with her. Will the two ever get back together?",
+            "popularity": 13.346,
+            "poster_path": "/pYhlkqBLMZuH8UmzTkENeSQ2vhb.jpg",
+            "release_date": "2017-10-27",
+            "title": "Ayla: The Daughter of War",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 277
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+            "genre_ids": [
+                28,
+                80,
+                18
+            ],
+            "id": 111,
+            "original_language": "en",
+            "original_title": "Scarface",
+            "overview": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+            "popularity": 95.337,
+            "poster_path": "/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",
+            "release_date": "1983-12-09",
+            "title": "Scarface",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 9588
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bg4B52loVIYZTf3odGQKVV6B55h.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 20914,
+            "original_language": "it",
+            "original_title": "Amici miei",
+            "overview": "Four middle-aged friends in Florence organize together idle pranks (called zingarate, \"gypsy shenanigans\") in a continuous attempt to prolong childhood during their adult life.",
+            "popularity": 5.599,
+            "poster_path": "/8Pm8SLjq2UHCwisd56ipHtzvZI1.jpg",
+            "release_date": "1975-10-24",
+            "title": "My Friends",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 597
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9RuC3UD6mNZ0p1J6RbfJDUkQ03i.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 1422,
+            "original_language": "en",
+            "original_title": "The Departed",
+            "overview": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+            "popularity": 43.17,
+            "poster_path": "/jyAgiqVSx5fl0NNj7WoGGKweXrL.jpg",
+            "release_date": "2006-10-04",
+            "title": "The Departed",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 12721
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 439,
+            "original_language": "it",
+            "original_title": "La dolce vita",
+            "overview": "Journalist and man-about-town Marcello struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+            "popularity": 13.941,
+            "poster_path": "/dtnIlZK2S14D9ztgrQzXRAQAE6.jpg",
+            "release_date": "1960-02-05",
+            "title": "La Dolce Vita",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 1530
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/v2SCnNZDZ7USonAWnsGtL4PUqHt.jpg",
+            "genre_ids": [
+                28,
+                35,
+                9648
+            ],
+            "id": 992,
+            "original_language": "en",
+            "original_title": "Sherlock Jr.",
+            "overview": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+            "popularity": 16.611,
+            "poster_path": "/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+            "release_date": "1924-04-17",
+            "title": "Sherlock Jr.",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 700
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cXQH2u7wUIX1eoIdEj51kHXoWhX.jpg",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "id": 100,
+            "original_language": "en",
+            "original_title": "Lock, Stock and Two Smoking Barrels",
+            "overview": "A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.",
+            "popularity": 10.344,
+            "poster_path": "/8kSerJrhrJWKLk1LViesGcnrUPE.jpg",
+            "release_date": "1998-08-28",
+            "title": "Lock, Stock and Two Smoking Barrels",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 5574
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fKa8Jy2ge1O0IU6zZXnJ2sxUzdU.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 895,
+            "original_language": "ru",
+            "original_title": "Андрей Рублёв",
+            "overview": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
+            "popularity": 12.221,
+            "poster_path": "/910xRIUmNJrWH2hkQifBJtoPp5R.jpg",
+            "release_date": "1966-12-16",
+            "title": "Andrei Rublev",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 595
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lrLIy9OFRQg4VkhrCyolfNXJEUH.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 666,
+            "original_language": "pt",
+            "original_title": "Central do Brasil",
+            "overview": "An emotive journey of a former school teacher, who writes letters for illiterate people, and a young boy, whose mother has just died, as they search for the father he never knew.",
+            "popularity": 11.123,
+            "poster_path": "/zJvp7XjQ2LhPbDVYhFXyucs40vR.jpg",
+            "release_date": "1998-11-20",
+            "title": "Central Station",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 684
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6SP1bFfoXhW7Ni7fPw5GjY7ACBS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 600354,
+            "original_language": "en",
+            "original_title": "The Father",
+            "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
+            "popularity": 23.701,
+            "poster_path": "/pr3bEQ517uMb5loLvjFQi8uLAsp.jpg",
+            "release_date": "2020-12-23",
+            "title": "The Father",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 2263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6MCVqErhPC0p6RkzZsLuIb6LZ1L.jpg",
+            "genre_ids": [
+                18,
+                37
+            ],
+            "id": 68718,
+            "original_language": "en",
+            "original_title": "Django Unchained",
+            "overview": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+            "popularity": 76.219,
+            "poster_path": "/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+            "release_date": "2012-12-25",
+            "title": "Django Unchained",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 23016
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fcH7FM74GoHgOUnKjpGAoKOxWvY.jpg",
+            "genre_ids": [
+                18,
+                35,
+                10752
+            ],
+            "id": 55823,
+            "original_language": "it",
+            "original_title": "La grande guerra",
+            "overview": "Italy, 1916. Oreste Jacovacci and Giovanni Busacca are called, as all the Italian youths, to serve the army in the WWI. They both try in every way to avoid serving the army.",
+            "popularity": 8.155,
+            "poster_path": "/aDvKsUb5y7GMNMz2HHNtuGww5t8.jpg",
+            "release_date": "1959-10-28",
+            "title": "The Great War",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 297
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o33acwn7KliNpJRbjy4FrMSpiQ9.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 654299,
+            "original_language": "es",
+            "original_title": "Como caído del cielo",
+            "overview": "Returning to Earth as an imitator, the legendary Mexican artist Pedro Infante must prove that he is no longer a womanizer to enter paradise.",
+            "popularity": 26.94,
+            "poster_path": "/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg",
+            "release_date": "2019-12-24",
+            "title": "Out of the Clear Blue Sky",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 298
+        }
+    ],
+    "total_pages": 516,
+    "total_results": 10307
+}]

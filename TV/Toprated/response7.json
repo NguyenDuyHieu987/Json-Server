@@ -1,0 +1,422 @@
+{
+    "page": 7,
+    "results": [
+        {
+            "backdrop_path": "/aXjxJGIigXn8zikcj3SUmG6xbIA.jpg",
+            "first_air_date": "2019-04-10",
+            "genre_ids": [
+                16,
+                35,
+                10765
+            ],
+            "id": 87461,
+            "name": "The Helpful Fox Senko-san",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "世話やきキツネの仙狐さん",
+            "overview": "Like many hardworking members of the workforce, Kuroto Nakano is perpetually stressed out by his job. Still, since he lives alone, he must carry on to sustain himself. Little do humans like Kuroto know, this stress takes the form of darkness residing within a person's body and will bring one's life to ruin.\n\nFox deities can see this darkness and have the duty to save people before it is too late. To help rid Kuroto of his stress, Senko-san, an eight hundred-year-old foxgirl, volunteers to take care of him, and will do everything she can to ease the tension in his weary soul.",
+            "popularity": 26.045,
+            "poster_path": "/pygu154QHVzb0Ro3PKTdFBKcdiY.jpg",
+            "vote_average": 8.6,
+            "vote_count": 199
+        },
+        {
+            "backdrop_path": "/aEvoRR2lcesBoKJSSqDqsppQrKJ.jpg",
+            "first_air_date": "1985-03-04",
+            "genre_ids": [
+                16,
+                18,
+                10765
+            ],
+            "id": 2192,
+            "name": "Robotech",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Robotech",
+            "overview": "Robotech is an 85-episode adaptation of three different anime television series made between 1982-1984 in Japan; the adaptation was aired in 1985. Within the combined and edited story, Robotechnology refers to the scientific advances discovered in an alien starship that crashed on a South Pacific island. With this technology, Earth developed giant robotic machines or mecha to fight three successive extraterrestrial invasions.",
+            "popularity": 26.397,
+            "poster_path": "/f3SIr4To9Tuie4I9D2U41XsIbpC.jpg",
+            "vote_average": 8.6,
+            "vote_count": 262
+        },
+        {
+            "backdrop_path": "/gZzIQxo2ukFSdZGtlttA0wI6kax.jpg",
+            "first_air_date": "2011-06-05",
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "id": 34524,
+            "name": "Teen Wolf",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Teen Wolf",
+            "overview": "Scott McCall, a high school student living in the town of Beacon Hills has his life drastically changed when he's bitten by a werewolf, becoming one himself. He must henceforth learn to balance his problematic new identity with his day-to-day teenage life. The following characters are instrumental to his struggle: Stiles, his best friend; Allison, his love interest who comes from a family of werewolf hunters; and Derek, a mysterious werewolf with a dark past. Throughout the series, he strives to keep his loved ones safe while maintaining normal relationships with them.",
+            "popularity": 230.512,
+            "poster_path": "/vY2vfAskJTiWsQSv6bdbNCQhPLm.jpg",
+            "vote_average": 8.6,
+            "vote_count": 3398
+        },
+        {
+            "backdrop_path": "/34OGjFEbHj0E3lE2w0iTUVq0CBz.jpg",
+            "first_air_date": "2020-10-23",
+            "genre_ids": [
+                18
+            ],
+            "id": 87739,
+            "name": "The Queen's Gambit",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Queen's Gambit",
+            "overview": "In a Kentucky orphanage in the 1950s, a young girl discovers an astonishing talent for chess while struggling with addiction.",
+            "popularity": 78.116,
+            "poster_path": "/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+            "vote_average": 8.6,
+            "vote_count": 2945
+        },
+        {
+            "backdrop_path": "/4jaGeTbps5BKk6l1x6K2P9b3Qto.jpg",
+            "first_air_date": "2020-10-08",
+            "genre_ids": [
+                16,
+                10759,
+                10765,
+                35
+            ],
+            "id": 99779,
+            "name": "Noblesse",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "NOBLESSE -ノブレス-",
+            "overview": "Rai wakes up from 820-years long sleep and starts his new life as a student in a high school founded by his loyal servant, Frankenstein. But his peaceful days with other human students are soon interrupted by mysterious attackers known as the \"Unions\".",
+            "popularity": 18.695,
+            "poster_path": "/tnIfTMaig2FmsOSL5wEH3rYofJN.jpg",
+            "vote_average": 8.6,
+            "vote_count": 374
+        },
+        {
+            "backdrop_path": "/900tHlUYUkp7Ol04XFSoAaEIXcT.jpg",
+            "first_air_date": "2019-05-06",
+            "genre_ids": [
+                18
+            ],
+            "id": 87108,
+            "name": "Chernobyl",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Chernobyl",
+            "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+            "popularity": 70.085,
+            "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+            "vote_average": 8.6,
+            "vote_count": 4314
+        },
+        {
+            "backdrop_path": "/b4YF76JxWSZayk5fBVbbyOnwaQk.jpg",
+            "first_air_date": "2015-04-05",
+            "genre_ids": [
+                16,
+                18,
+                10765
+            ],
+            "id": 62450,
+            "name": "Plastic Memories",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "プラスティック･メモリーズ",
+            "overview": "After failing his college entrance exams, 18 year-old Tsukasa Mizugaki is offered a position at the renowned SAI Corporation, known for its production and management of Giftia, androids that possess human emotions. Tsukasa’s position is in the terminal service department where the main job is to recover Giftias that are close to their expiration, a graveyard department in every sense. To make matters worse, Tsukasa is ordered to work with Isla, a female Giftia who is never given any responsibility other than serving tea to co-workers.",
+            "popularity": 28.437,
+            "poster_path": "/omOgvHRgfdWku75Gd8YSk2n0pX1.jpg",
+            "vote_average": 8.6,
+            "vote_count": 148
+        },
+        {
+            "backdrop_path": "/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+            "first_air_date": "2021-12-19",
+            "genre_ids": [
+                37,
+                18
+            ],
+            "id": 118357,
+            "name": "1883",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "1883",
+            "overview": "Follow the Dutton family as they embark on a journey west through the Great Plains toward the last bastion of untamed America. A stark retelling of Western expansion, and an intense study of one family fleeing poverty to seek a better future in America’s promised land — Montana.",
+            "popularity": 51.915,
+            "poster_path": "/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+            "vote_average": 8.6,
+            "vote_count": 180
+        },
+        {
+            "backdrop_path": "/7gbmM2NWcqZONbp65HUWDf4wr0Q.jpg",
+            "first_air_date": "2019-07-12",
+            "genre_ids": [
+                16,
+                18
+            ],
+            "id": 88040,
+            "name": "Given",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ギヴン",
+            "overview": "Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.",
+            "popularity": 26.345,
+            "poster_path": "/lTP5yFKt2wzv8vM4EheNgIejEVu.jpg",
+            "vote_average": 8.6,
+            "vote_count": 668
+        },
+        {
+            "backdrop_path": "/4hXEVbqGLMQG1SL4882BnBKgqEr.jpg",
+            "first_air_date": "2021-12-18",
+            "genre_ids": [
+                18,
+                10766,
+                10768
+            ],
+            "id": 108291,
+            "name": "Snowdrop",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "설강화",
+            "overview": "A desperate love story between Young-ro, a youthful female freshman student, and Soo-ho, a prestigious but mysterious university graduate, who one day jumps into her room, at a women's university dormitory, covered in blood from running away of a dangerous situation. Despite the strict surveillance, she helps him on hiding and healing which develops their relationship that goes against the tragic era of 1987 in Seoul.",
+            "popularity": 34.345,
+            "poster_path": "/3AhTqNJVr1v7Jfplg8Y1YOzzdWE.jpg",
+            "vote_average": 8.6,
+            "vote_count": 104
+        },
+        {
+            "backdrop_path": "/x9zv7iB75isTzAx0W6Mr7w2F4t6.jpg",
+            "first_air_date": "2016-04-06",
+            "genre_ids": [
+                16,
+                10759,
+                35,
+                10765
+            ],
+            "id": 66078,
+            "name": "Twin Star Exorcists",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "双星の陰陽師",
+            "overview": "Rokuro is from a family of exorcists, but he'd rather be a singer, a soccer player or anything but an exorcist! He's forced to own up to his own incredible potential when new arrival Benio stirs his competitive spirit. But their rivalry gets a twist when they earn the prestigious title of \"Twin Star Exorcists\"—two supreme fighters fated to marry and birth the ultimate spiritual warrior!",
+            "popularity": 42.068,
+            "poster_path": "/dbGtsHEuV8zREyMEXmf5YFtUZyL.jpg",
+            "vote_average": 8.6,
+            "vote_count": 313
+        },
+        {
+            "backdrop_path": "/hqFaSNICeh0Y3Hp0gtEIzDBmUVo.jpg",
+            "first_air_date": "2020-08-19",
+            "genre_ids": [
+                10764
+            ],
+            "id": 106600,
+            "name": "BTS In the SOOP",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "In the SOOP BTS편",
+            "overview": "'In the SOOP BTS ver.' is a reality show, portraying BTS members' everyday life, relaxation, and everything in between, away from the city life. A time of freedom and healing in a place for BTS, and BTS only.",
+            "popularity": 19.58,
+            "poster_path": "/eBsIEKqLMtktw2jpFPa9WTuGyPN.jpg",
+            "vote_average": 8.6,
+            "vote_count": 368
+        },
+        {
+            "backdrop_path": "/dcdPgvIlOh7PAPuuVlbEmVwld2v.jpg",
+            "first_air_date": "2020-11-20",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 107124,
+            "name": "Animaniacs",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Animaniacs",
+            "overview": "The Warner siblings, Yakko and Wakko, and Dot, have a great time wreaking havoc and mayhem in the lives of everyone they meet. After returning to their beloved home, the Warner Bros. Water Tower, the Animaniacs waste no time in causing chaos and comic confusion as they run loose through the studio and beyond, turning the world into their personal playground. Joining Yakko, Wakko and Dot are fan-favorite characters Pinky and the Brain, continuing their quest for world domination.",
+            "popularity": 40.897,
+            "poster_path": "/ui11KF03IIFAAfHJ14SDuEFW3WO.jpg",
+            "vote_average": 8.6,
+            "vote_count": 457
+        },
+        {
+            "backdrop_path": "/lHcScx9Qpj6OkTmnzPRGIRhn3FR.jpg",
+            "first_air_date": "2019-10-03",
+            "genre_ids": [
+                16,
+                35,
+                18
+            ],
+            "id": 93019,
+            "name": "ORESUKI: Are you the only one who loves me?",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "俺を好きなのはお前だけかよ",
+            "overview": "Kisaragi Amatsuyu is invited out alone by the cool beauty upperclassman Cosmos and his childhood friend Himawari. Expecting to hear their confessions, he triumphantly goes to meet each of them in turn. But Cosmos and Himawari both instead confess to Amatsuyu that they like his friend. Amatsuyu fights this lonely battle, but there is another girl who is looking at him. She is a gloomy girl with glasses and braids. Amatsuyu finds that he hates her, because she's always turning her sharp tongue only on him and finding enjoyment in his troubles. But it turns out that she's the only one who actually does like him.",
+            "popularity": 35.583,
+            "poster_path": "/4MojZik5N62IShd2BFVEHyaRBLP.jpg",
+            "vote_average": 8.6,
+            "vote_count": 246
+        },
+        {
+            "backdrop_path": "/uzp513qTcHsAavlCJ58x5d73bzy.jpg",
+            "first_air_date": "2017-07-07",
+            "genre_ids": [
+                16,
+                18,
+                10759,
+                10765
+            ],
+            "id": 72636,
+            "name": "Made In Abyss",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "メイドインアビス",
+            "overview": "Located in the center of a remote island, the Abyss is the last unexplored region, a huge and treacherous fathomless hole inhabited by strange creatures where only the bravest adventurers descend in search of ancient relics. In the upper levels of the Abyss, Riko, a girl who dreams of becoming an explorer, stumbles upon a mysterious little boy.",
+            "popularity": 68.835,
+            "poster_path": "/n30CBH4BoN5Z34tCpOWIPGJYOaS.jpg",
+            "vote_average": 8.6,
+            "vote_count": 277
+        },
+        {
+            "backdrop_path": "/f71mQJuG8oDiDTMGKKWWeW9iHWU.jpg",
+            "first_air_date": "2000-10-16",
+            "genre_ids": [
+                16,
+                10765,
+                10759,
+                35
+            ],
+            "id": 35610,
+            "name": "InuYasha",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "犬夜叉",
+            "overview": "Kagome Higurashi is a modern day young girl who lives with her family by the old Higure shrine. Unbeknownst to Kagome, she is the reincarnation of priestess Kikyo and posseses the \"Jewel of Four Souls\" (the Shikon jewel). One ill-fated day, Kagome locates an ancient well near her home and is abruptly transported through the well and into a feudal Japan, inhabited by demons. There, she encounters Inuyasha, son of a powerful demon father and a human mother, who is pinned to a tree by an enchanted arrow.",
+            "popularity": 95.719,
+            "poster_path": "/zEHGWEMtqdXXhao8PeRqTmpaE6P.jpg",
+            "vote_average": 8.6,
+            "vote_count": 1728
+        },
+        {
+            "backdrop_path": "/2XeJ6RClo1jeisGqZkWtVVKTXYJ.jpg",
+            "first_air_date": "2005-06-01",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 5381,
+            "name": "My Lovely Sam-Soon",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "내 이름은 김삼순",
+            "overview": "Kim Sam Soon is a baker who has a talent in making pastries and cakes. On Christmas Eve, she caught her boyfriend, Min Hyun Woo, cheating on her and breaks up. On that same night, she accidentally went into the men's restroom and met Hyun Jin Hun. By sheer coincidence, Jin Hun needs a baker for his restaurant Bon Appetit and Sam Soon is unemployed. Sam Soon is hired as the restaurant's chief baker and the two fight like cat and dog.",
+            "popularity": 23.827,
+            "poster_path": "/hqam3HaYUdZH1uXB9BqwJ7UBeij.jpg",
+            "vote_average": 8.6,
+            "vote_count": 162
+        },
+        {
+            "backdrop_path": "/4krha3MBKtFuEo9YRgznIFAl3RS.jpg",
+            "first_air_date": "2012-10-07",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 60654,
+            "name": "Magi",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "マギ",
+            "overview": "This story is about the flow of fate and the battle to keep the world on the right path. Aladdin is a boy who has set out to explore the world after being trapped in a room for most of his life. His best friend is a flute with a djinn in it named Ugo. Soon enough, Aladdin discovers he is a Magi, a magician who chooses kings, and he was born to choose kings who will follow the righteous path, battling against those who want to destroy fate. Follow his adventures as he meets others from 1001 Arabian Nights, like Ali Baba and Sinbad, and fights to keep the balance of world in check!",
+            "popularity": 38.525,
+            "poster_path": "/cDIDw98GGkVvyDa2ko0KGmE5g2A.jpg",
+            "vote_average": 8.6,
+            "vote_count": 133
+        },
+        {
+            "backdrop_path": "/catP4WmPPCiWbHv4jL5mQJfpGIQ.jpg",
+            "first_air_date": "1994-10-17",
+            "genre_ids": [
+                16,
+                10765,
+                10759,
+                18,
+                35
+            ],
+            "id": 34158,
+            "name": "Magic Knight Rayearth",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "魔法騎士レイアース",
+            "overview": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji are strangers brought together by fate when they meet during a seemingly normal field trip to Tokyo Tower. Accompanied by a great flash of light, they hear a mysterious woman's plea to save \"Cephiro,\" and the junior high heroines are suddenly swept away by a giant flying fish. Afterwards, they arrive in an unknown land, where they encounter a man called Master Mage Clef.\n\nClef informs the girls that they were summoned by Princess Emeraude to fulfill their destinies as Magic Knights, restoring peace and balance in Cephiro. The formerly lively and peaceful land has been in disarray ever since High Priest Zagato imprisoned the princess, who acted as Cephiro's pillar of stability. The Magic Knights reluctantly accept Clef's words as truth and embark on a journey to save Cephiro from the clutches of evil.",
+            "popularity": 24.278,
+            "poster_path": "/xh4XkH5RJQPO9b9bBPL77dKXrxR.jpg",
+            "vote_average": 8.6,
+            "vote_count": 162
+        },
+        {
+            "backdrop_path": "/gD1wxipYITThPEFJyszx6w7Bo7x.jpg",
+            "first_air_date": "2014-07-08",
+            "genre_ids": [
+                16,
+                35,
+                18
+            ],
+            "id": 62602,
+            "name": "Blue Spring Ride",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "アオハライド",
+            "overview": "At the end of her first year of high school, Futaba Yoshioka suddenly has a chance encounter with her first love, Kou Tanaka. Three years ago, he transferred schools before she was able to say how she felt about him. After meeting each other again, Futaba realizes that he has gone through many changes. He acts more cool and even had his last name changed to Mabuchi. Gradually the two rekindle their love while piecing together what had happened in the time that they were apart.",
+            "popularity": 24.259,
+            "poster_path": "/lAXKWt3IiKFJ1zOsuB6lYWIhovx.jpg",
+            "vote_average": 8.6,
+            "vote_count": 281
+        }
+    ],
+    "total_pages": 129,
+    "total_results": 2575
+}

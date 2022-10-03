@@ -1,0 +1,408 @@
+[{
+    "dates": {
+        "maximum": "2022-09-17",
+        "minimum": "2022-07-31"
+    },
+    "page": 3,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/pFwvHAFyPEqtvJEoutPuobLwrNj.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 778810,
+            "original_language": "en",
+            "original_title": "Fireheart",
+            "overview": "The film explores the world of firefighters in 1920s New York City and tells the story of a 16-year-old girl who will have to become a hero in order to save her city.",
+            "popularity": 277.688,
+            "poster_path": "/hepwOZWJNUmLzB68gKYEdEJAaD3.jpg",
+            "release_date": "2022-01-16",
+            "title": "Fireheart",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 163
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                14
+            ],
+            "id": 772071,
+            "original_language": "es",
+            "original_title": "Cuando Sea Joven",
+            "overview": "",
+            "popularity": 225.28,
+            "poster_path": "/4feRzNyfJirBrM4sOCNmmxUVuUP.jpg",
+            "release_date": "2022-09-14",
+            "title": "Cuando Sea Joven",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tHR34A5n0my4maACNdLpWGd6QYq.jpg",
+            "genre_ids": [
+                18,
+                53,
+                28,
+                12
+            ],
+            "id": 698948,
+            "original_language": "en",
+            "original_title": "Thirteen Lives",
+            "overview": "Based on the true nail-biting mission that captivated the world. Twelve boys and the coach of a Thai soccer team explore the Tham Luang cave when an unexpected rainstorm traps them in a chamber inside the mountain. Entombed behind a maze of flooded cave tunnels, they face impossible odds. A team of world-class divers navigate through miles of dangerous cave networks to discover that finding the boys is only the beginning.",
+            "popularity": 267.117,
+            "poster_path": "/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg",
+            "release_date": "2022-07-18",
+            "title": "Thirteen Lives",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 652
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cajsVCJXosfpJkdvA0kxk3Mdwgh.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 990691,
+            "original_language": "da",
+            "original_title": "Kærlighed for voksne",
+            "overview": "The thin line between love and hate turns deadly when a wife discovers her husband’s affair — and they both take extreme measures to get what they want.",
+            "popularity": 247.981,
+            "poster_path": "/mNSqObjKszcxr55buQafQF9ARiC.jpg",
+            "release_date": "2022-08-26",
+            "title": "Loving Adults",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 129
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ubty43lOcYeeWMnWxszdNsrzf1z.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "id": 809717,
+            "original_language": "de",
+            "original_title": "Peterchens Mondfahrt",
+            "overview": "When Peter sets out on a magical journey to rescue his little sister Anne, he needs to travel to mysterious territory: the Moon! Anne was kidnapped by the evil Moon Man when she tried to help the beetle Mr. Zoomzeman in search for his wife. On his fantastic adventure, Peter lands on the Star Meadow where he meets the sleepy Mr. Sandman. He knows, only at the Night Fairy’s dinner in the castle in the clouds, they can find out where Anne is – but there aren’t enough seats for everyone. So they join the wild race along the Milky Way against the five Spirits of Nature: Storm Giant, Lightning Witch, Henry Hail, Rainy Robin and Mother Frost…",
+            "popularity": 221.112,
+            "poster_path": "/bkp1oHMvDwDTlbRhCcqAK0A7JNd.jpg",
+            "release_date": "2022-01-14",
+            "title": "Moonbound",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 39
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tt79dbOPd9Z9ykEOpvckttgYXwH.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 545611,
+            "original_language": "en",
+            "original_title": "Everything Everywhere All at Once",
+            "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+            "popularity": 212.902,
+            "poster_path": "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg",
+            "release_date": "2022-03-24",
+            "title": "Everything Everywhere All at Once",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 1703
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ljkEEcpCF2x8pkcO2jmQSdRTdaE.jpg",
+            "genre_ids": [
+                35,
+                28,
+                18
+            ],
+            "id": 885266,
+            "original_language": "fr",
+            "original_title": "Kung-Fu Zohra",
+            "overview": "Zohra is convinced that separating from her husband Omar would break her little girl’s heart and so determines not to leave him despite the violence he metes out. Then she meets Chang Sue, the caretaker of the gym where she works to make ends meet. When she learns that he’s a kung fu master, Zohra asks him to teach her some self-defence basics…",
+            "popularity": 208.835,
+            "poster_path": "/uHTgTqZCQN5kd22QlyZMpPcFU3s.jpg",
+            "release_date": "2022-03-09",
+            "title": "Kung-Fu Zohra",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 26
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vzJkN2vpIiCXzQ6AgwMmNhRPag2.jpg",
+            "genre_ids": [
+                16,
+                18,
+                878,
+                10402
+            ],
+            "id": 776305,
+            "original_language": "ja",
+            "original_title": "竜とそばかすの姫",
+            "overview": "Suzu is a 17-year-old high-school student living in a rural town with her father. Wounded by the loss of her mother at a young age, Suzu one day discovers the massive online world \"U\" and dives into this alternate reality as her avatar, Belle. Before long, all of U's eyes are fixed on Belle, when, suddenly, a mysterious, dragon-like figure appears before her.",
+            "popularity": 196.987,
+            "poster_path": "/fYHOD4pxZQk4rsP2tQrZI5uBlZV.jpg",
+            "release_date": "2021-07-16",
+            "title": "Belle",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 448
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDvx0cafHm1Z0R295wMxzpVTGf9.jpg",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751,
+                14
+            ],
+            "id": 676705,
+            "original_language": "fr",
+            "original_title": "Pil",
+            "overview": "Pil, a little vagabond girl, lives on the streets of the medieval city of Roc-en-Brume, along with her three tame weasels. She survives of food stolen from the castle of the sinister Regent Tristain. One day, to escape his guards, Pil disguises herself as a princess. Thus she embarks upon a mad, delirious adventure, together with Crobar, a big clumsy guard who thinks she's a noble, and Rigolin, a young crackpot jester. Pil is going to have to save Roland, rightful heir to the throne under the curse of a spell. This adventure will turn the entire kingdom upside down, and teach Pil that nobility can be found in all of us.",
+            "popularity": 198.498,
+            "poster_path": "/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg",
+            "release_date": "2021-08-11",
+            "title": "Pil's Adventures",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 121
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hOqP5nvFHiFRrirnovYcfbTexK.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10751
+            ],
+            "id": 760758,
+            "original_language": "ja",
+            "original_title": "岬のマヨイガ",
+            "overview": "A strange old woman allows a teenage runaway and a young orphan to stay in an abandoned house that overlooks the sea. However, when a menacing entity threatens their new home, they must band together and face their fears to save it.",
+            "popularity": 180.149,
+            "poster_path": "/5afJWPrNwm7a220mOccwB30PCOq.jpg",
+            "release_date": "2021-08-27",
+            "title": "The House of the Lost on the Cape",
+            "video": false,
+            "vote_average": 4.8,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yo0qfH2dQGGMxkfivdkz5zxVatD.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 830788,
+            "original_language": "en",
+            "original_title": "The Invitation",
+            "overview": "After the death of her mother, Evie is approached by an unknown cousin who invites her to a lavish wedding in the English countryside. Soon, she realizes a gothic conspiracy is afoot and must fight for survival as she uncovers twisted secrets in her family’s history.",
+            "popularity": 241.856,
+            "poster_path": "/jcTq6gIskCsHlKDvCKKouEfiU66.jpg",
+            "release_date": "2022-08-24",
+            "title": "The Invitation",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 71
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AkMP3PyFoZr0BmARXuqH4NNHOUO.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 824281,
+            "original_language": "en",
+            "original_title": "Easter Sunday",
+            "overview": "A man returns home for an Easter celebration with his riotous, bickering, eating, drinking, laughing, loving family, in this love letter to the Filipino-American community.",
+            "popularity": 166.638,
+            "poster_path": "/nWniH5tuElAYfEC9dTM9kJCwMer.jpg",
+            "release_date": "2022-08-05",
+            "title": "Easter Sunday",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 16
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vsN9Lpi3HQJHQeHx8GzN6qfOYqk.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80,
+                18
+            ],
+            "id": 766907,
+            "original_language": "en",
+            "original_title": "American Siege",
+            "overview": "An ex-NYPD officer-turned-sheriff of a small rural Georgia town has to contend with a gang of thieves who have taken a wealthy doctor hostage.",
+            "popularity": 188.692,
+            "poster_path": "/daeVrgyj0ue8qb3AHyU3UeCwoZz.jpg",
+            "release_date": "2022-01-07",
+            "title": "American Siege",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 104
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uHmvk8FnoxpgujDU0RIXLkv2fNt.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 573164,
+            "original_language": "es",
+            "original_title": "Un rescate de huevitos",
+            "overview": "Toto and his friends must rescue his egg children after they're taken away for a gourmet food event in Africa.",
+            "popularity": 173.259,
+            "poster_path": "/tiy4jEbUixPdvgaaqCEKtIB6K9U.jpg",
+            "release_date": "2021-08-12",
+            "title": "An Egg Rescue",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 318
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ugZbX5lKx4L9ONEu0WTNbR96J0t.jpg",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 768447,
+            "original_language": "en",
+            "original_title": "Motherly",
+            "overview": "Kate and her daughter Beth live alone in an isolated farmhouse in the woods, but when Kate slowly begins to suspect that something sinister is happening, her motherly instincts are put to the test.",
+            "popularity": 177.278,
+            "poster_path": "/wmh1likQEetSLIUs5MAvfWjEayY.jpg",
+            "release_date": "2022-08-04",
+            "title": "Motherly",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3tmpWdxKgc2BvOkqBaGCWloNqh5.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 913290,
+            "original_language": "en",
+            "original_title": "Barbarian",
+            "overview": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway, but soon discovers that there is much more to be afraid of in the house than the other house guest.",
+            "popularity": 202.602,
+            "poster_path": "/9WDk6Nu9RbeBAPutywTUa28rZej.jpg",
+            "release_date": "2022-09-08",
+            "title": "Barbarian",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 22
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lD8dFIk9wDEvOwZw0RB47e346io.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                36
+            ],
+            "id": 698508,
+            "original_language": "en",
+            "original_title": "Redeeming Love",
+            "overview": "A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.",
+            "popularity": 174.53,
+            "poster_path": "/z8VpsTdIjBhdeGeNEsHFwz6MJXp.jpg",
+            "release_date": "2022-01-21",
+            "title": "Redeeming Love",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hFMb2LpOv7wmtsr20GbCCb0IfX3.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 913868,
+            "original_language": "en",
+            "original_title": "The Princess",
+            "overview": "Decades after her untimely death, Princess Diana continues to evoke mystery, glamour, and the quintessential modern fairy tale gone wrong. As a symbol of both the widening fissures weakening the British monarchy and the destructive machinery of the press, the Princess of Wales navigated an unparalleled rise to fame and the corrosive challenges that came alongside it. Crafted entirely from immersive archival footage and free from the distraction of retrospective voices, this hypnotic and audaciously revealing documentary takes a distinctive formal approach, allowing the story of the People’s Princess to unfold before us like never before.",
+            "popularity": 187.179,
+            "poster_path": "/kNU8gzCuoYuZr1hl36xAlCAxFwF.jpg",
+            "release_date": "2022-05-30",
+            "title": "The Princess",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4nswAImPQjLbyCpXkwHjFlXxAeG.jpg",
+            "genre_ids": [
+                16,
+                18,
+                878
+            ],
+            "id": 741335,
+            "original_language": "ja",
+            "original_title": "アイの歌声を聴かせて",
+            "overview": "Satomi is fine being alone until an AI named Shion joins her class with a song and a promise to make her happy. While Shion’s musical numbers and princess gowns don’t quite pass as human, her antics bring Satomi closer to four other classmates. Together, they make memories worth saving, but even our most precious data can be erased.",
+            "popularity": 146.192,
+            "poster_path": "/bDx77d1SLXGWIGMlz6nWx0SghiT.jpg",
+            "release_date": "2021-10-29",
+            "title": "Sing a Bit of Harmony",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c8V4NFf9YsrRmqGHXBAQFrbVHXW.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 800939,
+            "original_language": "en",
+            "original_title": "Ticket to Paradise",
+            "overview": "A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.",
+            "popularity": 131.682,
+            "poster_path": "/9KvarmnOyYvrbeZpplvtcRb4Xlu.jpg",
+            "release_date": "2022-09-08",
+            "title": "Ticket to Paradise",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 18
+        }
+    ],
+    "total_pages": 87,
+    "total_results": 1730
+}]

@@ -1,0 +1,402 @@
+[{
+    "dates": {
+        "maximum": "2022-09-17",
+        "minimum": "2022-07-31"
+    },
+    "page": 4,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/c8V4NFf9YsrRmqGHXBAQFrbVHXW.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 800939,
+            "original_language": "en",
+            "original_title": "Ticket to Paradise",
+            "overview": "A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.",
+            "popularity": 131.682,
+            "poster_path": "/9KvarmnOyYvrbeZpplvtcRb4Xlu.jpg",
+            "release_date": "2022-09-08",
+            "title": "Ticket to Paradise",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rfbpgHbotsnB4sopZDIA3EhPecQ.jpg",
+            "genre_ids": [
+                35,
+                28
+            ],
+            "id": 746333,
+            "original_language": "fr",
+            "original_title": "Super-héros malgré lui",
+            "overview": "Struggling actor Cedric seems doomed to lead the life of a loser. He's broke and his girlfriend has dumped him. Even his own father, sister and best buddies have lost faith in his ability to do anything worthwhile. Then finally, he gets a lead role: the superhero “Badman“. A chance to pull himself out of an endless downward spiral and gain his father's respect. But fate strikes again! Rushing off the set in full costume, Cedric has a car accident, loses his memory, and wakes up convinced he really is a superhero on mission! Confronted with real-life adventure and danger, his true nature is put to the test. Does he have what it takes to tackle the forces of evil, defend the weakest among us and beat the bad guys? But you can't just decide to be a hero, let alone a superhero... especially someone like Cedric!",
+            "popularity": 152.43,
+            "poster_path": "/Aie2kiYOUgZeakpshM2N64PKof1.jpg",
+            "release_date": "2022-02-02",
+            "title": "Superwho?",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 240
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bqJXL8DRUIN6WsF86VB87pZZCOr.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 882040,
+            "original_language": "es",
+            "original_title": "30 Noches Con Mi Ex",
+            "overview": "Turbo, after years of being split with La Loba, accepts because of an order from their daughter, to spend thirty days with his ex-wife, who just got out of a long psychiatric hospitalization.",
+            "popularity": 150.868,
+            "poster_path": "/roYX6bgzdwIOL6O1j6YwLZnEtye.jpg",
+            "release_date": "2022-08-11",
+            "title": "30 Nights with My Ex",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 9
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gkseI3CUfQtMKX41XD4AxDzhQb7.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 724495,
+            "original_language": "en",
+            "original_title": "The Woman King",
+            "overview": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life.",
+            "popularity": 118.437,
+            "poster_path": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+            "release_date": "2022-09-15",
+            "title": "The Woman King",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vwpxy4kmQyW5aBJ3uxhQM6koU6H.jpg",
+            "genre_ids": [
+                10751,
+                16
+            ],
+            "id": 743439,
+            "original_language": "en",
+            "original_title": "PAW Patrol: Jet To The Rescue",
+            "overview": "A royal relative steals a gem with the power to make things fly, the Paw Patrol takes to the skies to stop him and save Barkingburg.",
+            "popularity": 129.394,
+            "poster_path": "/qHcn3PbjVHxBweDZxWpYH3JfugS.jpg",
+            "release_date": "2020-09-10",
+            "title": "PAW Patrol: Jet To The Rescue",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 145
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zEddiBK6yZNUGVnmBJzmnYcEWiR.jpg",
+            "genre_ids": [
+                18,
+                53,
+                27
+            ],
+            "id": 630240,
+            "original_language": "fr",
+            "original_title": "Titane",
+            "overview": "A woman with a metal plate in her head from a childhood car accident embarks on a bizarre journey, bringing her into contact with a firefighter who's reunited with his missing son after 10 years.",
+            "popularity": 127.441,
+            "poster_path": "/wY7jeCdbhWuYao4WHI51pc51a9b.jpg",
+            "release_date": "2021-07-14",
+            "title": "Titane",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 888
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/92PJmMopfy64VYjd0HvIQaHGZX0.jpg",
+            "genre_ids": [
+                10751,
+                35,
+                16,
+                28
+            ],
+            "id": 366672,
+            "original_language": "en",
+            "original_title": "Paws of Fury: The Legend of Hank",
+            "overview": "A hard-on-his-luck hound finds himself in a town full of cats in need of a hero to defend them from a ruthless villain's wicked plot to wipe their village off the map. With help from a reluctant mentor, our underdog must assume the role of town samurai and team up with the villagers to save the day.",
+            "popularity": 93.175,
+            "poster_path": "/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg",
+            "release_date": "2022-07-14",
+            "title": "Paws of Fury: The Legend of Hank",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8DHvtmF15wGwkMOW3nqZmpEzEaq.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 751237,
+            "original_language": "en",
+            "original_title": "Umma",
+            "overview": "Amanda and her daughter live a quiet life on an American farm, but when the remains of her estranged mother arrive from Korea, Amanda becomes haunted by the fear of turning into her own mother.",
+            "popularity": 113.114,
+            "poster_path": "/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg",
+            "release_date": "2022-03-18",
+            "title": "Umma",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 146
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i1GT0e6Crg6UezT3ibXnMS3pBAd.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10749
+            ],
+            "id": 652837,
+            "original_language": "ja",
+            "original_title": "ジョゼと虎と魚たち",
+            "overview": "With dreams of diving abroad, Tsuneo gets a job assisting Josee, an artist whose imagination takes her far beyond her wheelchair. But when the tide turns against them, they push each other to places they never thought possible, and inspire a love fit for a storybook.",
+            "popularity": 116.062,
+            "poster_path": "/z1D8xi9x4uEhyFruo7uEHXUMD4K.jpg",
+            "release_date": "2020-12-25",
+            "title": "Josee, the Tiger and the Fish",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z6GxNP2Z5AyoFfrYKxZWJypfZXJ.jpg",
+            "genre_ids": [
+                16,
+                10751
+            ],
+            "id": 823609,
+            "original_language": "en",
+            "original_title": "Monster Family 2",
+            "overview": "To free Baba Yaga and Renfield from the clutches of Monster Hunter Mila Starr, the Wishbone Family once more transforms into a Vampire, Frankenstein's Monster, a Mummy and a Werewolf but when aided by their three pet bats, the Monster Family zooms around the world again to save their friends, make new monstrous acquaintances.",
+            "popularity": 108.694,
+            "poster_path": "/fD3w59S1e3otqTMQDzxLq24khUf.jpg",
+            "release_date": "2021-10-21",
+            "title": "Monster Family 2",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 49
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fI8hv1IqWUIUjx4YRfl6TWhdqHW.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 626872,
+            "original_language": "ko",
+            "original_title": "비상선언",
+            "overview": "While investigating a terroristic threat that goes viral online, Korean authorities discover that a suspect has recently boarded an international flight bound for the United States. When a healthy passenger on the same flight suddenly dies a gruesome death of unknown cause, panic erupts both in-flight and on the ground. With steadily decreasing fuel and international refusals to offer aid, the captain and crew will be forced to take unprecedented emergency measures in an attempt to save the lives of their passengers.",
+            "popularity": 97.622,
+            "poster_path": "/h7kaQG5MbraSLibOuTpo0gtMxRz.jpg",
+            "release_date": "2022-08-03",
+            "title": "Emergency Declaration",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3xGfsAYAxVmYj1CbE5vAkmMJbHo.jpg",
+            "genre_ids": [
+                80,
+                35
+            ],
+            "id": 724665,
+            "original_language": "en",
+            "original_title": "Confess, Fletch",
+            "overview": "The roguishly charming and endlessly troublesome Fletch becomes the prime suspect in a murder case while searching for a stolen art collection. The only way to prove his innocence? Find out which of the long list of suspects is the culprit - from the eccentric art dealer and a missing playboy to a crazy neighbor and Fletch’s Italian girlfriend.",
+            "popularity": 78.283,
+            "poster_path": "/4dqEk1X8rHSOWWfnVEuzgXj24Mr.jpg",
+            "release_date": "2022-09-16",
+            "title": "Confess, Fletch",
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qJrKHGkRcQ47qP2YbfLhfNmwBQf.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 1007430,
+            "original_language": "tl",
+            "original_title": "Sitio Diablo",
+            "overview": "A story about a gangster couple who returns to Sitio Diablo, a gangland in Manila, and form a new gang, Illustrados. A bloodbath is set to happen when they face their old gang, Los Hijos Diablos who rules Sitio Diablo.",
+            "popularity": 68.731,
+            "poster_path": "/s4oOLgH5zcwlaQHmHY5diSwiPVO.jpg",
+            "release_date": "2022-08-26",
+            "title": "Sitio Diablo",
+            "video": false,
+            "vote_average": 3,
+            "vote_count": 2
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                53,
+                27
+            ],
+            "id": 1014226,
+            "original_language": "es",
+            "original_title": "Sonríe",
+            "overview": "",
+            "popularity": 104.266,
+            "poster_path": "/wHowKf77gNZbVo9yu5ggiNBFCdJ.jpg",
+            "release_date": "2022-08-18",
+            "title": "Sonríe",
+            "video": false,
+            "vote_average": 1,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oxUG1YVKDXz8GqC57LuhZHLVscf.jpg",
+            "genre_ids": [
+                27,
+                53,
+                18
+            ],
+            "id": 949423,
+            "original_language": "en",
+            "original_title": "Pearl",
+            "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations and repressions collide.",
+            "popularity": 62.472,
+            "poster_path": "/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+            "release_date": "2022-09-16",
+            "title": "Pearl",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 13
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7IW5xt241RUAufYiFBoAPx5n52V.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 936074,
+            "original_language": "fr",
+            "original_title": "Ténor",
+            "overview": "While working part-time as a food deliveryman, Antoine, an aspiring young rapper from the suburbs of Paris, meets Mrs. Loiseau, an eminent teacher at the Paris Opéra. Stunned by the young man's raw talent, she introduces him to the world of opera. As Antoine becomes one of Mrs. Loiseau's students, he hides his new dream from his friends and family, fearing that they won’t understand – this double life burdens him... Somewhere in between the gilded and uptight Parisian upper-class, and the harsh yet free-spirited and familiar suburbs he grew up in, Antoine will have to find his own voice.",
+            "popularity": 69.772,
+            "poster_path": "/t8ShCiZxrbiy7kuO06OilLI3PeL.jpg",
+            "release_date": "2022-05-04",
+            "title": "Tenor",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 46
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5sl6GEHjvo0V2lGYlcCghTkUUzK.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 804251,
+            "original_language": "ca",
+            "original_title": "Alcarràs",
+            "overview": "For as long as they can remember, the Solé family has spent every summer picking the peaches in their orchard in Alcarràs, a small village in Catalonia. But this year’s crop may well be their last, as they face eviction. The new plans for the land, which include cutting down the peach trees and installing solar panels, cause a rift in this large, tight-knit family. For the first time, they face an uncertain future and risk losing more than their orchard.",
+            "popularity": 84.628,
+            "poster_path": "/o1GKiyozTFsVAPTtZKJT81gDNqz.jpg",
+            "release_date": "2022-04-29",
+            "title": "Alcarràs",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uMPJwWDojedB36iowSl3HTLmTjW.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10402,
+                10751
+            ],
+            "id": 812204,
+            "original_language": "en",
+            "original_title": "Rock Dog 2: Rock Around the Park",
+            "overview": "When Bodi and his band 'True Blue' leave Snow Mountain, to tour with pop sensation, Lil' Foxy, they learn that fame comes at a price.",
+            "popularity": 74.988,
+            "poster_path": "/kETYRGA15L0wkVPugSl8lKmSgFn.jpg",
+            "release_date": "2021-08-05",
+            "title": "Rock Dog 2: Rock Around the Park",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 86
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ff4wDbIBCLCFOKN0B0ENhuIdNoo.jpg",
+            "genre_ids": [
+                28,
+                12,
+                18,
+                14
+            ],
+            "id": 496331,
+            "original_language": "hi",
+            "original_title": "Brahmastra Part 1: Shiva",
+            "overview": "The story of Shiva – a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahmāstra... and a great power within him that he doesn’t understand just yet - the power of Fire.",
+            "popularity": 57.56,
+            "poster_path": "/3O3oTeFERsfNHjwkMHQV26uMf7x.jpg",
+            "release_date": "2022-09-09",
+            "title": "Brahmāstra Part One: Shiva",
+            "video": false,
+            "vote_average": 5,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jwFBzWabfWpnN9P5YIVVX5W8WUY.jpg",
+            "genre_ids": [
+                53,
+                9648,
+                35
+            ],
+            "id": 683340,
+            "original_language": "en",
+            "original_title": "Vengeance",
+            "overview": "A journalist and podcaster from New York City travels to West Texas in order to report on the death of a girl he was hooking up with.",
+            "popularity": 73.122,
+            "poster_path": "/n1SlTeEv3dNJB3gF9AHAVElQ6LO.jpg",
+            "release_date": "2022-07-29",
+            "title": "Vengeance",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 82
+        }
+    ],
+    "total_pages": 87,
+    "total_results": 1734
+}]

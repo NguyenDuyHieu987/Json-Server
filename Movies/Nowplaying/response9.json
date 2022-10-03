@@ -1,0 +1,389 @@
+[{
+    "dates": {
+        "maximum": "2022-09-17",
+        "minimum": "2022-07-31"
+    },
+    "page": 9,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/AcStyrENNAzGB7hkCPe1YWgFgWM.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 477462,
+            "original_language": "fi",
+            "original_title": "The Twin",
+            "overview": "Every parent's worst nightmare is just the beginning for Rachel's ordeal as in the aftermath of a tragic accident, she and her husband Anthony decide to move to the other side of the world to focus on their surviving twin son Elliot.  What begins as a time of healing and isolation in the Finnish countryside turns into a desperate battle for the very soul of their son as an entity claiming to be his dead twin brother takes over Elliot — setting Rachel on a diabolical journey to unravel the horrible truth about her twin son.",
+            "popularity": 22.165,
+            "poster_path": "/w22qYgMdEzvZ4tZd1n8q87uKE15.jpg",
+            "release_date": "2022-04-06",
+            "title": "The Twin",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oQ8yfQkL6rXK4sNSlrN5baos0mW.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 921643,
+            "original_language": "en",
+            "original_title": "A Jazzman's Blues",
+            "overview": "Tyler Perry's tale of forbidden love and family drama unravels 40 years of secrets and lies against a soundtrack of juke joint blues in the Deep South.",
+            "popularity": 13.062,
+            "poster_path": "/juvKmySdoCFmjuPeokOtEK3jGHx.jpg",
+            "release_date": "2022-09-16",
+            "title": "A Jazzman's Blues",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uvoOoMvI5n4K5PXi44yPMfu2Ibt.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 795811,
+            "original_language": "ja",
+            "original_title": "偶然と想像",
+            "overview": "An unexpected love triangle, a seduction trap, and a random encounter are the three episodes, told in three movements to depict three female characters and trace the trajectories between their choices and regrets.",
+            "popularity": 18.776,
+            "poster_path": "/5L9IPUqYZKXvM03XnUhM6OWenEH.jpg",
+            "release_date": "2021-04-11",
+            "title": "Wheel of Fortune and Fantasy",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 158
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xTGAseTeeS1Dz6WCrypzRk5QTDQ.jpg",
+            "genre_ids": [
+                80,
+                9648
+            ],
+            "id": 956564,
+            "original_language": "ja",
+            "original_title": "沈黙のパレード",
+            "overview": "Physicist Manabu Yukawa returns to Japan from America. Detective Kaoru Utsumi visits him and talks about a case. The case is about a popular girl in a town who disappeared and, several years later, her body was found. A suspect was arrested for her murder. That suspect was previously arrested for another girl's murder, but he was released due to a lack of evidence. Detective Shunpei Kusanagi investigated the prior murder case. The same suspect was then released due to a lack of evidence for the most recent murder case. The released man returned to his town, where everybody hated him. On the day of the autumn festival parade, the man was killed.  Physicist Manabu Yukawa, Detective Kaoru Utsumi and Detective Shunpei Kusanagi work together on his case.",
+            "popularity": 18.494,
+            "poster_path": "/8daymoa8VKVtd7Z7MV9mDizj6Yq.jpg",
+            "release_date": "2022-09-16",
+            "title": "Silent Parade",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3xvdNyZ9WsVJpyeGhm85fukeZz4.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 1001835,
+            "original_language": "en",
+            "original_title": "Wifelike",
+            "overview": "A grieving detective in the near-future hunts down criminals who trade artificial humans on the black market. In the fight to end AI exploitation, an underground resistance attempts to infiltrate him by sabotaging the programming of the artificial human assigned as his companion to behave like his late wife. She begins to question her reality as memories of a past life begin to surface in a world where nothing is as it seems.",
+            "popularity": 25.402,
+            "poster_path": "/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg",
+            "release_date": "2022-08-12",
+            "title": "Wifelike",
+            "video": false,
+            "vote_average": 3.7,
+            "vote_count": 10
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/av2BXIe8X7zpM5p3ko11unPm3ZG.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 1009723,
+            "original_language": "hi",
+            "original_title": "Middle-Class Love",
+            "overview": "A young college boy is frustrated being in middle-class family setup and finds love the ideal way to get out of it. However, the path to getting rid of the middle-class thinking and probing parents wasn't so easy as it seemed initially, especially when he thought love would save him.",
+            "popularity": 13.714,
+            "poster_path": "/jzznBJtpYrj4dYXGxuYVZySITSA.jpg",
+            "release_date": "2022-09-16",
+            "title": "Middle-Class Love",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eUl0JExl11ZyAgNjwxXzdIXlQlE.jpg",
+            "genre_ids": [
+                27,
+                9648
+            ],
+            "id": 635,
+            "original_language": "en",
+            "original_title": "Angel Heart",
+            "overview": "Down-and-out private detective Harry Angel is ordered by the mysterious Louis Cyphre to go on a mission to find a missing person. His routine failure soon leads to a bloody spar with himself, as he goes on a supernatural journey into his own soul.",
+            "popularity": 13.15,
+            "poster_path": "/xKnJ4drN6J4dTu7E0yoBqrRALG2.jpg",
+            "release_date": "1987-03-06",
+            "title": "Angel Heart",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jL6dUyvPltVcbs1UawEeldlwMIY.jpg",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "id": 518896,
+            "original_language": "zh",
+            "original_title": "明日戰記",
+            "overview": "In 2055, a meteorite, which brings a fast-growing alien vine named \"Pandora\", crashes down on a barren Earth ravaged by pollution and global warming. \"Pandora\" purifies the planet but kills everything in its path.To protect the citizens of their city, the heavily armored military of Hong Kong, armed with the plant's genetic map, tries but fails to destroy \"Pandora\" and uncovers a conspiracy.",
+            "popularity": 21.982,
+            "poster_path": "/iDMBEoargGMrVTvPDFwRbotDD0b.jpg",
+            "release_date": "2022-08-05",
+            "title": "Warriors of Future",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 8
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Pg0al5HWhs6wYMxfD2A8A7QnB7.jpg",
+            "genre_ids": [
+                18,
+                27,
+                9648
+            ],
+            "id": 925786,
+            "original_language": "id",
+            "original_title": "Pengabdi Setan 2: Communion",
+            "overview": "After moving from their home to an apartment building, a new terror awaits Rini’s family. server : https://divedigital.vip/movie/925786/pengabdi-setan-2-communion",
+            "popularity": 17.384,
+            "poster_path": "/zzpxuEXS1azwhqfvtacLtScixbS.jpg",
+            "release_date": "2022-08-04",
+            "title": "Satan's Slaves 2: Communion",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 12
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [],
+            "id": 1020283,
+            "original_language": "en",
+            "original_title": "Ungentle",
+            "overview": "A film exploring the complicated relationship between British espionage and male homosexuality.",
+            "popularity": 10.55,
+            "poster_path": "/eij5eOEbdhdVxhK0ah9sZeA4RD9.jpg",
+            "release_date": "2022-09-16",
+            "title": "Ungentle",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/721Tx7LljbIIJGfhV2uSvHF4Prb.jpg",
+            "genre_ids": [
+                10402,
+                10749
+            ],
+            "id": 888311,
+            "original_language": "es",
+            "original_title": "Voy a pasármelo bien",
+            "overview": "David and Layla, two teenagers who really like \"G-Men\" and they like each other too, but everything he does to win her over ends badly. Thirty years later they meet again and realize that the feelings have not completely disappeared.",
+            "popularity": 14.74,
+            "poster_path": "/edVpQe80AG9nDQdJNnPyn9RX8NC.jpg",
+            "release_date": "2022-08-05",
+            "title": "Voy a pasármelo bien",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2DU26ybLByYaGoTjQxxjcIXySNQ.jpg",
+            "genre_ids": [
+                35,
+                18,
+                28
+            ],
+            "id": 863530,
+            "original_language": "ml",
+            "original_title": "തല്ലുമാല",
+            "overview": "Wazim is young, carefree and often drawn to fights. But when love blooms with a star vlogger, the impact of his fists could have disastrous effects.",
+            "popularity": 12.059,
+            "poster_path": "/2XkOLjtiJQKZ4HwdtMKe2jwDOR0.jpg",
+            "release_date": "2022-08-12",
+            "title": "Thallumaala",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 6
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/eF4NQhFBS0s6l1pT6jzU9GHUmvo.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 802706,
+            "original_language": "id",
+            "original_title": "Lara Ati",
+            "overview": "The story of two bestfriends, Joko and Ayu, who are both hurt because of their respective situations.",
+            "popularity": 14.588,
+            "poster_path": "/ednnNePnbCj5z6DIbEWgxilqYPl.jpg",
+            "release_date": "2022-09-15",
+            "title": "Lara Ati",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 802793,
+            "original_language": "hi",
+            "original_title": "जहां चार यार",
+            "overview": "",
+            "popularity": 21.626,
+            "poster_path": "/oo5KBgfp8EWzFQGnciNC0RJb2lZ.jpg",
+            "release_date": "2022-09-16",
+            "title": "Jahaan Chaar Yaar",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o3mQrrDS9fhM3HEvm9V50K1vmfF.jpg",
+            "genre_ids": [
+                80,
+                28,
+                53
+            ],
+            "id": 334074,
+            "original_language": "en",
+            "original_title": "Survivor",
+            "overview": "A Foreign Service Officer in London tries to prevent a terrorist attack set to hit New York, but is forced to go on the run when she is framed for crimes she did not commit.",
+            "popularity": 22.709,
+            "poster_path": "/cSUBBDvQA1aflH7rskhh3Qmtgpr.jpg",
+            "release_date": "2015-05-21",
+            "title": "Survivor",
+            "video": false,
+            "vote_average": 5.6,
+            "vote_count": 861
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/e7k3Gbeq7TjFP22AOzDI7kVwaUE.jpg",
+            "genre_ids": [
+                27
+            ],
+            "id": 523371,
+            "original_language": "en",
+            "original_title": "Inmate Zero",
+            "overview": "There's a zombie outbreak after a medical trial in an international detention and medical facility on an isolated island. An ex US Special Forces/bodyguard woman inmate and a guard form a team.",
+            "popularity": 15.764,
+            "poster_path": "/6uSR3687xtyS207S8nYp1voT9mR.jpg",
+            "release_date": "2020-02-28",
+            "title": "Inmate Zero",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 81
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aRJjCgp4uVUkXhDw8NClesQXbt3.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 727340,
+            "original_language": "ko",
+            "original_title": "헌트",
+            "overview": "Agents of the Korean National Intelligence Service (KNIS), Pyung-ho at Int’l Dept. and Jung-do at Domestic Dept. are both independently hunting a North Korean mole within the agency. During this investigation, they come face to face with an unbearable truth and must deal with an unthinkable plot to assassinate the South Korean president.",
+            "popularity": 17.405,
+            "poster_path": "/tDe5eLxAbeK7sYckUn5aH3ngWnn.jpg",
+            "release_date": "2022-08-10",
+            "title": "Hunt",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg",
+            "genre_ids": [
+                53
+            ],
+            "id": 893086,
+            "original_language": "en",
+            "original_title": "The Good Neighbor",
+            "overview": "A nightmarish evening unfolds for David, a former New York Times journalist, when he and his strange new neighbor Robert, accidentally hit a girl on her bike. Buzzed and disoriented, David lets Robert convince him to flee the scene and leave the girl for dead, in order to protect his career. Robert shows no remorse, and in the name of friendship he does unspeakable things to protect the secret. Now that the police are full-on hunting for the hit-and-run killer, things begin to spiral out of control when David’s local newspaper sends him to cover the story where he meets the deceased girl’s sister Vanessa. Despite the circumstances, and her deep desire to find her sister’s killer, the two immediately have a romantic connection, which surprises and haunts David, while pushing Robert to take brutal steps to keep his new friend to himself.",
+            "popularity": 23.639,
+            "poster_path": "/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+            "release_date": "2022-06-17",
+            "title": "The Good Neighbor",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 64
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lxJV0TFmg42cDrqoUTXMynXEa2e.jpg",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "id": 846956,
+            "original_language": "en",
+            "original_title": "Rogue Agent",
+            "overview": "The TRUE, extraordinary and chilling story of career conman Robert Freegard who masqueraded as an MI5 agent and fooled people into going into hiding, and the woman who fell for him, and then brought him down.",
+            "popularity": 17.074,
+            "poster_path": "/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg",
+            "release_date": "2022-08-12",
+            "title": "Rogue Agent",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 35
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pnIOp2kyXkE97sWuIkze66ECcms.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 921106,
+            "original_language": "te",
+            "original_title": "ఆ అమ్మాయి గురించి మీకు చెప్పాలి",
+            "overview": "A successful commercial film director finds a reel that changes his life forever. Will he finally make a movie that touches people’s hearts?",
+            "popularity": 10.478,
+            "poster_path": "/YiyUyEGn3layO4lMTciX0IyAmj.jpg",
+            "release_date": "2022-09-16",
+            "title": "Aa Ammayi Gurinchi Meeku Cheppali",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        }
+    ],
+    "total_pages": 87,
+    "total_results": 1734
+}]

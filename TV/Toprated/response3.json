@@ -1,0 +1,425 @@
+{
+    "page": 3,
+    "results": [
+        {
+            "backdrop_path": "/moTJDVjvgoYUxFrBbzBQwg35NyA.jpg",
+            "first_air_date": "2017-05-15",
+            "genre_ids": [
+                16
+            ],
+            "id": 98214,
+            "name": "Villainous",
+            "origin_country": [
+                "MX"
+            ],
+            "original_language": "es",
+            "original_name": "Villanos",
+            "overview": "Follow the misadventures of the Black Hat Org. with evil handyman Black Hat and his less evil aides Dr. Flugslys, Demencia, 5.0.5, Cam Bot, and Penumbra.",
+            "popularity": 17.056,
+            "poster_path": "/uKtxJqOeB74Lm6ZNCyEqMaFlXbp.jpg",
+            "vote_average": 8.7,
+            "vote_count": 274
+        },
+        {
+            "backdrop_path": "/9BeUFOmnq9rI6hXUAG9xEvPvao9.jpg",
+            "first_air_date": "2013-04-09",
+            "genre_ids": [
+                16,
+                35,
+                10759,
+                10751
+            ],
+            "id": 80040,
+            "name": "Desafío Champions Sendokai",
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Desafío Champions Sendokai",
+            "overview": "",
+            "popularity": 10.277,
+            "poster_path": "/eufjrVnmheraU6zPUl5tCdphyy0.jpg",
+            "vote_average": 8.7,
+            "vote_count": 147
+        },
+        {
+            "backdrop_path": "/rRGnjRCHdDl3m3oCVSvo5z2E5c5.jpg",
+            "first_air_date": "2016-01-08",
+            "genre_ids": [
+                16,
+                18,
+                9648
+            ],
+            "id": 65249,
+            "name": "ERASED",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "僕だけがいない街",
+            "overview": "Satoru Fujinuma is a struggling manga artist who has the ability to turn back time and prevent deaths. When his mother is killed he turns back time to solve the mystery, but ends up back in elementary school, just before the disappearance of his classmate Kayo.",
+            "popularity": 32.665,
+            "poster_path": "/EljUwZJhpuYfVuSfqY8Pt1xxpH.jpg",
+            "vote_average": 8.7,
+            "vote_count": 770
+        },
+        {
+            "backdrop_path": "/1Ep6YHL5QcrNC1JN6RYalWRPopi.jpg",
+            "first_air_date": "2019-07-05",
+            "genre_ids": [
+                10759,
+                16
+            ],
+            "id": 86031,
+            "name": "Dr. Stone",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ドクターストーン",
+            "overview": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he's not alone! His science-loving friend Senku's been up and running for a few months and he's got a grand plan in mind, to kickstart civilization with the power of science!",
+            "popularity": 19.311,
+            "poster_path": "/64DIVpWiGlvvJczMnyu8jojSYKm.jpg",
+            "vote_average": 8.7,
+            "vote_count": 1090
+        },
+        {
+            "backdrop_path": "/4sSzTvk200BQyYjRJq69mLwE9xG.jpg",
+            "first_air_date": "2018-04-25",
+            "genre_ids": [
+                16,
+                35,
+                18,
+                10759
+            ],
+            "id": 79141,
+            "name": "Scissor Seven",
+            "origin_country": [
+                "CN"
+            ],
+            "original_language": "zh",
+            "original_name": "刺客伍六七",
+            "overview": "Seeking to recover his memory, a scissor-wielding, hairdressing, bungling quasi-assassin stumbles into a struggle for power among feuding factions.",
+            "popularity": 69.053,
+            "poster_path": "/A39DWUIrf9WDRHCg7QTR8seWUvi.jpg",
+            "vote_average": 8.7,
+            "vote_count": 480
+        },
+        {
+            "backdrop_path": "/epq6I0AwVaHldCrQ6xJ5ZsAyHCF.jpg",
+            "first_air_date": "2019-07-12",
+            "genre_ids": [
+                10765,
+                18,
+                35
+            ],
+            "id": 90447,
+            "name": "Hotel Del Luna",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "호텔 델루나",
+            "overview": "The Hotel Del Luna, located in Seoul, is not like any other hotel: its clients are all ghosts. Jang Man-wol, stuck in the hotel for the past millennium, meets Goo Chan-sung, the new manager.",
+            "popularity": 38.478,
+            "poster_path": "/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+            "vote_average": 8.7,
+            "vote_count": 409
+        },
+        {
+            "backdrop_path": "/jwAUfgwFEzMYUh3lUht8VBB1SU7.jpg",
+            "first_air_date": "2018-04-04",
+            "genre_ids": [
+                16,
+                35,
+                18
+            ],
+            "id": 77721,
+            "name": "Real Girl",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "３Ｄ彼女　リアルガール",
+            "overview": "Tsutsui Hikari (a.k.a \"Tsuttsun\") is a high school student who is content with his virtual life of anime and video games. One day, he gets stuck cleaning the pool with Iroha, a real live girl who is stylish, sassy and known to be easy with boys ... and she aggressively approaches him! Tsuttsun, who has few friends and lives in his own world, finds himself smitten by the confident and wild Iroha ... and his whole world is turned upside down!! It's the awkward and pure love story of a boy who experiences relationship for the first time.",
+            "popularity": 31.873,
+            "poster_path": "/3UmNynM1YXkYylyontGXPHncjOC.jpg",
+            "vote_average": 8.7,
+            "vote_count": 398
+        },
+        {
+            "backdrop_path": "/vP6jiaPmzgHF5YyvrkK44PJGmyR.jpg",
+            "first_air_date": "2020-12-12",
+            "genre_ids": [
+                18,
+                35,
+                10765
+            ],
+            "id": 108261,
+            "name": "Mr. Queen",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "철인왕후",
+            "overview": "In the modern age, Jang Bong-hwan is a chef who works for the country's top politicians at the Blue House. He has a free spirit, but he one day finds himself in the body of Queen Cheorin in the Joseon period.",
+            "popularity": 29.623,
+            "poster_path": "/yrZkfrMLBi9tmNrDJpiMqjEv1S1.jpg",
+            "vote_average": 8.7,
+            "vote_count": 254
+        },
+        {
+            "backdrop_path": "/790rH1ByeDJg6VPwBFxdzxHRepI.jpg",
+            "first_air_date": "2019-04-06",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 85990,
+            "name": "Hitori Bocchi no Marumaru Seikatsu",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ひとりぼっちの○○生活",
+            "overview": "Hitori Bocchi suffers from extreme social anxiety, she's not good at talking to people, takes pretty extreme actions, is surprisingly adept at avoiding people, her legs cramp when she overexerts herself, gets full of herself when alone, will vomit when exposed to extreme tension and often comes up with plans. Now she is entering middle school and her only friend, Yawara Kai, is attending a different school. This leaves Bocchi alone, surrounded by new classmates with whom she must make friends before Kai will talk to her again.",
+            "popularity": 11.845,
+            "poster_path": "/btoTzCw3zmjRtB99g2M5Mw2GUQG.jpg",
+            "vote_average": 8.7,
+            "vote_count": 126
+        },
+        {
+            "backdrop_path": "/lmiJDVIrcwp7062c0HbnIZ2dmQS.jpg",
+            "first_air_date": "2015-07-09",
+            "genre_ids": [
+                16,
+                18,
+                9648,
+                10765
+            ],
+            "id": 63495,
+            "name": "SCHOOL-LIVE!",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "がっこうぐらし!",
+            "overview": "Yuki Takeya, Kurumi Ebisuzawa, Yuri Wakasa, and Miki Naoki decide to stay over at school. Along with the school adviser Megumi Sakura, they suddenly find themselves to be the final survivors of a zombie attack, and continue to live and survive at the school.",
+            "popularity": 15.162,
+            "poster_path": "/46C5g7zAN4KHfZQBaJamyWia8l0.jpg",
+            "vote_average": 8.7,
+            "vote_count": 105
+        },
+        {
+            "backdrop_path": "/qCPusV7wkA2PkwSeFNYgIgda5yc.jpg",
+            "first_air_date": "2020-01-07",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 96150,
+            "name": "Seton Academy: Join the Pack!",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "群れなせ！シートン学園",
+            "overview": "Seton Academy, a school full of animals where, thanks to population decline, there are fewer humans than any other creature. Mazama Jin, an animal hater and the only human male in his class, falls in love with Hino Hitomi, the only female human, the moment he lays eyes her. However he soon finds himself entangled with various other creatures after he reluctantly joins the 'pack' of Lanka the wolf, the only other member of her pack. After getting to know each other, the two decide to create a cooking club, and after a few bad-blooded misunderstandings, Ranka soon joins the club as well.\n\nThus begins the howl-some and howl-arious story of two normal humans; an adorable wolf; a cheerful koala; a sluggish, blonde sloth; and a feline with cattitude in their newfound club—in a story that teaches that friendship can be forged by creatures of different kinds.",
+            "popularity": 24.057,
+            "poster_path": "/yXSH5BYOhYt26S5x7Aqz2VXj6P1.jpg",
+            "vote_average": 8.7,
+            "vote_count": 216
+        },
+        {
+            "backdrop_path": "/mLKN1dsimKPiXCZ48KED0X8a02t.jpg",
+            "first_air_date": "2012-10-06",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 45790,
+            "name": "JoJo's Bizarre Adventure",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ジョジョの奇妙な冒険",
+            "overview": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+            "popularity": 113.66,
+            "poster_path": "/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+            "vote_average": 8.7,
+            "vote_count": 1027
+        },
+        {
+            "backdrop_path": "/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+            "first_air_date": "2020-10-26",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 99489,
+            "name": "The Penthouse",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "펜트하우스",
+            "overview": "A woman puts everything on the line to achieve her goal of being able to move into a luxury penthouse in the Gangnam District. In the process, she gradually finds herself turning into a monster.",
+            "popularity": 37.703,
+            "poster_path": "/33WzWRlmxjpW00zOGin6qrx6iqU.jpg",
+            "vote_average": 8.7,
+            "vote_count": 168
+        },
+        {
+            "backdrop_path": "/7pCIWCBrsgB8tLBb4WRdhp1OtR7.jpg",
+            "first_air_date": "2020-09-06",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 97890,
+            "name": "Power Book II: Ghost",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Power Book II: Ghost",
+            "overview": "Picking up just days after the “Power” finale, this sequel series follows Tariq navigating his new life, in which his desire to shed his father’s legacy comes up against the mounting pressure to save his family.",
+            "popularity": 28.695,
+            "poster_path": "/8rbxvwGpPd9MWjdhAoSBj016cns.jpg",
+            "vote_average": 8.7,
+            "vote_count": 207
+        },
+        {
+            "backdrop_path": "/xzjZDyqUobuJtkBljhgLH4Fdnye.jpg",
+            "first_air_date": "2018-10-02",
+            "genre_ids": [
+                10759,
+                16,
+                10765,
+                35
+            ],
+            "id": 82684,
+            "name": "That Time I Got Reincarnated as a Slime",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "転生したらスライムだった件",
+            "overview": "37-year-old corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru Tempest, he begins his quest to create a world that’s welcoming to all races. Broken free from ordinary, stale past life, his fresh adventure in a fantasy world as a slime monster with unique abilities begins.",
+            "popularity": 54.905,
+            "poster_path": "/jQb1ztdko9qc4aCdnMXShcIHXRG.jpg",
+            "vote_average": 8.7,
+            "vote_count": 565
+        },
+        {
+            "backdrop_path": "/M0NvQAf3JQW3AuADYDhHwmhNCu.jpg",
+            "first_air_date": "1989-04-15",
+            "genre_ids": [
+                35,
+                10759,
+                16,
+                10765
+            ],
+            "id": 57706,
+            "name": "Ranma ½",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "らんま½",
+            "overview": "Saotome Ranma, a teenage martial artist, and his father Genma travel to the 'cursed training ground' of Jusenkyo in China. There, despite the warnings of the Chinese guard, they fall into the cursed springs. From now on, whenever Ranma is doused in cold water, he turns in to a girl, and a cute, well-built red-head at that. Hot water changes him back into a man again, but only until the next time. To make matters worse, his father engages him to Tendo Akane, a girl who hates boys.",
+            "popularity": 104.524,
+            "poster_path": "/lT7HqWVZoSuMKsrSiib0l6eTKXc.jpg",
+            "vote_average": 8.7,
+            "vote_count": 1089
+        },
+        {
+            "backdrop_path": "/zCJkiqMFoxcpYPKqhIhStEeVF2c.jpg",
+            "first_air_date": "1999-09-04",
+            "genre_ids": [
+                10759,
+                16,
+                35,
+                10765
+            ],
+            "id": 37419,
+            "name": "Zoids: Chaotic Century",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ゾイド",
+            "overview": "Van discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. The girl, who says her name is Fiona, wants to find something called \"Zoids Eve\", and so Van, the Organoid Zeke, and Fiona begin their adventure.",
+            "popularity": 27.076,
+            "poster_path": "/aVGuBvoBr9ujme4uUkAIRYk5vlt.jpg",
+            "vote_average": 8.7,
+            "vote_count": 271
+        },
+        {
+            "backdrop_path": "/sf7NCqyVUNoyjYuwW5oJke1T1lH.jpg",
+            "first_air_date": "2021-02-20",
+            "genre_ids": [
+                10759,
+                35,
+                18
+            ],
+            "id": 117376,
+            "name": "Vincenzo",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "빈센조",
+            "overview": "Vincenzo Cassano is an Italian lawyer and Mafia consigliere who moves back to Korea due to a conflict within his organization. He ends up crossing paths with a sharp-tongued lawyer named Cha-young, and the two join forces in using villainous methods to take down villains who cannot be punished by the law.",
+            "popularity": 71.075,
+            "poster_path": "/dvXJgEDQXhL9Ouot2WkBHpQiHGd.jpg",
+            "vote_average": 8.7,
+            "vote_count": 598
+        },
+        {
+            "backdrop_path": "/tsf3msEsM0uTbtsuwmtSQnje4zJ.jpg",
+            "first_air_date": "2017-10-08",
+            "genre_ids": [
+                16,
+                10765,
+                18
+            ],
+            "id": 73833,
+            "name": "The Ancient Magus' Bride",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "魔法使いの嫁",
+            "overview": "Fifteen-year-old Chise has nothing and no one to live for. But that changes when she becomes the apprentice and future wife of inhuman mage, Elias.",
+            "popularity": 35.168,
+            "poster_path": "/vUm0WIGGgAnXYOSBeB36FKDpBjI.jpg",
+            "vote_average": 8.7,
+            "vote_count": 286
+        },
+        {
+            "backdrop_path": "/nElVHpGzdKCh6y4o2JkKV0VJhiy.jpg",
+            "first_air_date": "2015-09-14",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 62914,
+            "name": "Merlí",
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "ca",
+            "original_name": "Merlí",
+            "overview": "TV series about a high school philosophy teacher, Merlí, who teaches in an original way, and about the students of his class, including his own son, and the relationship, friendship, love, and problems between the students of the class.\n\n",
+            "popularity": 84.157,
+            "poster_path": "/eBzpj7PxyeRFCIYHQjB5kDnhX4a.jpg",
+            "vote_average": 8.7,
+            "vote_count": 911
+        }
+    ],
+    "total_pages": 129,
+    "total_results": 2575
+}

@@ -1,0 +1,396 @@
+[{
+    "dates": {
+        "maximum": "2022-09-17",
+        "minimum": "2022-07-31"
+    },
+    "page": 10,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cXzcjHJ61wxn0VrkYfqED1p0q09.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 942624,
+            "original_language": "en",
+            "original_title": "Running the Bases",
+            "overview": "When a small-town baseball coach gets the offer of a lifetime from a larger 6A High School, he uproots his family and leaves the only home he's ever known. But as a man of faith, he soon faces extreme opposition to his coaching methods from the school superintendent.",
+            "popularity": 10.437,
+            "poster_path": "/eP1jd5MKi20OKznaU0IiS7YyIyJ.jpg",
+            "release_date": "2022-09-16",
+            "title": "Running the Bases",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dMb7y5yphsgV2RJbiT6g9ofVJT9.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 895957,
+            "original_language": "es",
+            "original_title": "La casa entre los cactus",
+            "overview": "The island of Gran Canaria. At the end of the 70s. Rosa and Emilio live with their five daughters, isolated from the world in the middle of a valley.  In this wild place, they lead an alternative, harmonious life, until the appearance of a lost hiker, who they agree to help.  This occurrence, very much out of the ordinary for the family, will lead to an extreme and hostile situation and will reveal the suffocating, dark nature of the house among the cactuses and its inhabitants.",
+            "popularity": 10.69,
+            "poster_path": "/cmxEWyUyAQy5MQqlv5PHvVgqR3K.jpg",
+            "release_date": "2022-09-16",
+            "title": "The House Among the Cactuses",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4rPXSJFSZvANt5wAH5FEGSU1UyP.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 862946,
+            "original_language": "te",
+            "original_title": "శాకినీ ఢాకినీ",
+            "overview": "Two trainee female police officers find themselves in an endless race against time after they witness a kidnapping and decide to use their knowledge.",
+            "popularity": 10.156,
+            "poster_path": "/ggD6ddmE2Uz2AVgbF48vMZvg3sf.jpg",
+            "release_date": "2022-09-16",
+            "title": "Saakini Daakini",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7ACG0BAm30ZleJBbQJpWL25rYOj.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 943301,
+            "original_language": "te",
+            "original_title": "నేను మీకు బాగా కావాల్సిన‌వాడిని",
+            "overview": "Teju, a software employee, once a Princess & Sweetheart of her family, is now an alcoholic and stays alone. Vivek, a driver, enters her life; he saves her from goons who try to take advantage of her intoxicated state. How did Teju’s life change after meeting Vivek?",
+            "popularity": 9.627,
+            "poster_path": "/9vCTxz8QWj4ZiwL2Vgi2jf1lnq9.jpg",
+            "release_date": "2022-09-16",
+            "title": "Nenu Meeku Baaga Kavalsinavaadini",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2PUM5pDpAzF9fsmmkNH9jBbj1yt.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80,
+                9648
+            ],
+            "id": 10851,
+            "original_language": "en",
+            "original_title": "Revolver",
+            "overview": "Hotshot gambler Jake Green is long on bravado and seriously short of common sense. Rarely is he allowed in any casino because he's a bona fide winner and, in fact, has taken so much money over the years that he's the sole client of his accountant elder brother, Billy. Invited to a private game, Jake is in fear of losing his life.",
+            "popularity": 18.356,
+            "poster_path": "/cXJYFEIGNxiNTCekP1A68ICzJen.jpg",
+            "release_date": "2005-09-11",
+            "title": "Revolver",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 1099
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tuVWHnYytOjHZiXoGffngkYnsLD.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 606870,
+            "original_language": "en",
+            "original_title": "The Survivor",
+            "overview": "Harry Haft is a boxer who fought fellow prisoners in the concentration camps to survive. Haunted by the memories and his guilt, he attempts to use high-profile fights against boxing legends like Rocky Marciano as a way to find his first love again.",
+            "popularity": 16.272,
+            "poster_path": "/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg",
+            "release_date": "2022-04-07",
+            "title": "The Survivor",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kxACsEK9EkgLradSfkJ6lKq1Ieq.jpg",
+            "genre_ids": [
+                99
+            ],
+            "id": 794252,
+            "original_language": "en",
+            "original_title": "Riotsville, USA",
+            "overview": "An archival documentary about the U.S. military’s response to the political and racial injustices of the late 1960s: take a military base, build a mock inner-city set, cast soldiers to play rioters, burn the place down, and film it all.",
+            "popularity": 11.351,
+            "poster_path": "/iksb0f8B0hlpqYWRSqBXK4pyZrv.jpg",
+            "release_date": "2022-09-16",
+            "title": "Riotsville, USA",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p4XrrXZqxeqXKH7zBeP6wRkDbhc.jpg",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "id": 10537,
+            "original_language": "en",
+            "original_title": "The Doors",
+            "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+            "popularity": 15.764,
+            "poster_path": "/4cr3hbn60Q6ue8r2dpt6IWLOz3f.jpg",
+            "release_date": "1991-03-01",
+            "title": "The Doors",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 1126
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+            "genre_ids": [
+                80,
+                18,
+                9648
+            ],
+            "id": 548,
+            "original_language": "ja",
+            "original_title": "羅生門",
+            "overview": "Brimming with action while incisively examining the nature of truth, \"Rashomon\" is perhaps the finest film ever to investigate the philosophy of justice. Through an ingenious use of camera and flashbacks, Kurosawa reveals the complexities of human nature as four people recount different versions of the story of a man's murder and the rape of his wife.",
+            "popularity": 15.059,
+            "poster_path": "/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg",
+            "release_date": "1950-08-26",
+            "title": "Rashomon",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 1713
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ppBoFKZj5j5FgBJkShpRErTlmdS.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 528095,
+            "original_language": "en",
+            "original_title": "Poor Boy",
+            "overview": "A little boy announces on his seventh birthday that he is a stranger named Danny, a grown man who died seven years earlier.",
+            "popularity": 10.105,
+            "poster_path": "/4w06FbwSZzLzq93BsfTS7TS8izJ.jpg",
+            "release_date": "2022-09-16",
+            "title": "Poor Boy",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rzRofRFpTUw87UKteT0J5ixqh9H.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 1022011,
+            "original_language": "ta",
+            "original_title": "சினம்",
+            "overview": "Sub-inspector Pari Venkat faces a huge tragedy putting him on an investigation to seek revenge.",
+            "popularity": 11.29,
+            "poster_path": "/insaaYkngspFTbOuBgZItmsl9Fx.jpg",
+            "release_date": "2022-09-16",
+            "title": "Sinam",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aAwEnhkqjDtEIozHNWy27C6QmHL.jpg",
+            "genre_ids": [
+                18,
+                53,
+                80
+            ],
+            "id": 800623,
+            "original_language": "ta",
+            "original_title": "வெந்து தணிந்தது காடு",
+            "overview": "A youngster from Tamil Nadu goes to Bombay in search of a better life and gets sucked into the underworld. Will he be able to find a way out of the violence and bloodshed?",
+            "popularity": 12.515,
+            "poster_path": "/7z2D25a4h4hs8PHrTia8pPkHijE.jpg",
+            "release_date": "2022-09-15",
+            "title": "Vendhu Thanindhathu Kaadu: Part 1 - The Kindling",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/96qFAPRQtwsi53s2sS0WhwBO2j8.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 870096,
+            "original_language": "zh",
+            "original_title": "重启地球",
+            "overview": "When a drug to replicate plant cells creates a sentient form of flower, the planet is over taken by flora and humankind is depleted. A Chinese task force, a widowed father and his young daughter fight to survive in a mission to inject an antidote to the core of the plants to reverse their growth.",
+            "popularity": 15.036,
+            "poster_path": "/2BgSBQQwh2AvxIw9gKrjOfnFKBe.jpg",
+            "release_date": "2022-08-04",
+            "title": "Restart The Earth",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mN0iadY7U4mUvXuoLBwwjtGAD32.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10402
+            ],
+            "id": 1013228,
+            "original_language": "en",
+            "original_title": "I Used to Be Famous",
+            "overview": "A former boy band star unexpectedly gets a second shot at success when he forms a bond with a gifted young drummer.",
+            "popularity": 15.172,
+            "poster_path": "/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg",
+            "release_date": "2022-09-09",
+            "title": "I Used to Be Famous",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 11
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7yIoCsxeL2UzjUjULufEzIUlwI4.jpg",
+            "genre_ids": [
+                28,
+                12,
+                35,
+                10751,
+                14,
+                36
+            ],
+            "id": 434245,
+            "original_language": "uk",
+            "original_title": "Сторожова застава",
+            "overview": "A solar eclipse activates a magic time portal, and a regular schoolboy Vit'ko from the 21st century goes a thousand years back in time. It doesn’t take Vitya long to recognize the legendary bogatyrs in young Oleshko, powerful Ilya and severe Dobrynya. Their life passes in fighting cumans who try to destroy Rusichi at any cost, using both weapons and black magic. Vitya finds himself in the very midst of incredible events, battles with mythical creatures and acquires real courage.",
+            "popularity": 11.533,
+            "poster_path": "/9Vyo740WlMp0C9qCnYp3fXbrOU0.jpg",
+            "release_date": "2017-10-12",
+            "title": "The Stronghold",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 184
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bLmBVRkfL8STcix6N5kAVZvVUtZ.jpg",
+            "genre_ids": [
+                18,
+                53
+            ],
+            "id": 806929,
+            "original_language": "en",
+            "original_title": "The Immaculate Room",
+            "overview": "Mike and Kate, a young couple, get the once-in-a lifetime chance to win a cool five million dollars. The challenge: Live for a month in a blank space. Sticking it out for thirty days, and the five million are theirs. How difficult can it be?",
+            "popularity": 15.545,
+            "poster_path": "/8L3Kb4C7h1g8L1I3OP5aUWHHMRG.jpg",
+            "release_date": "2022-08-19",
+            "title": "The Immaculate Room",
+            "video": false,
+            "vote_average": 4.6,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2kj6FOo0B9NtCen1Ta7LoaPW9wG.jpg",
+            "genre_ids": [
+                18,
+                878
+            ],
+            "id": 585378,
+            "original_language": "en",
+            "original_title": "After Yang",
+            "overview": "When his young daughter's beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn't know was there.",
+            "popularity": 17.301,
+            "poster_path": "/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+            "release_date": "2022-03-04",
+            "title": "After Yang",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 132
+        },
+        {
+            "adult": false,
+            "backdrop_path": null,
+            "genre_ids": [
+                18
+            ],
+            "id": 943934,
+            "original_language": "es",
+            "original_title": "Libélulas",
+            "overview": "Álex and Cata, two young women who live on the outskirts of the city, a desolate place full of empty stores and ramshackle bars where dreams end up fading, have been preparing their escape all their lives.",
+            "popularity": 10.505,
+            "poster_path": "/o8YdNcWSJduAwDhgCvPCz6jlrBW.jpg",
+            "release_date": "2022-09-16",
+            "title": "Dragonflies",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fbPGNA9BRt2NGoPHVavjnsXdVDt.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 764838,
+            "original_language": "fr",
+            "original_title": "Niagara",
+            "overview": "A comedy drama about the fall, mourning and rebuilding of oneself around three brothers in their fifties who will have to reconnect after the death of their father who died prematurely from an unfortunate Ice Bucket Challenge.",
+            "popularity": 10.271,
+            "poster_path": "/p6L5hJz3Tuy0ZaI7kg3kDUQB6ZK.jpg",
+            "release_date": "2022-09-16",
+            "title": "Niagara",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3OgBQe7k7xK74GZMMJLbLp6MBjF.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 746817,
+            "original_language": "en",
+            "original_title": "The Call",
+            "overview": "In the fall of 1987, a group of small-town friends must survive the night in the home of a sinister couple after a tragic accident occurs. Needing only to make a single phone call, the request seems horribly ordinary until they realize that this call could change their life…or end it.",
+            "popularity": 15.514,
+            "poster_path": "/iKmykghTmvQj6zum79TsdUL5mPF.jpg",
+            "release_date": "2020-10-23",
+            "title": "The Call",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 113
+        }
+    ],
+    "total_pages": 87,
+    "total_results": 1734
+}]
